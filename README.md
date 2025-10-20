@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Vasconcelos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ovasconcelos/)
 [![Email](https://img.shields.io/badge/Email-vvasconcelos.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vvasconcelos.dev@gmail.com)
 
-Full Stack Developer focused on building efficient, scalable, and maintainable applications. I design and develop end-to-end solutions—from architecture and UI to deployment—driven by clean code and real-world impact.
+Full Stack Developer focused on building efficient, scalable, and maintainable applications.
 
 ---
 
