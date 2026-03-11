@@ -1,16 +1,24 @@
-## Hi there 👋
+# Victor Vasconcelos
 
-<!--
-**vvasconceloss/vvasconceloss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer
+C# · .NET · TypeScript · React · Node.js · Rust
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Tools** — Git, Docker, Firebase, OutSystems
+**Databases** — MySQL, MongoDB, SQLite, MariaDB 
+**Backend** — PHP (Laravel), Node.js, Express, Fastify, C#, .NET, Rust  
+**Frontend** — JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS, SASS   
+
+---
+
+## Featured Project
+
+### [the-manager-football](https://github.com/vvasconceloss/the-manager-football)
+
+Free, open-source desktop football manager — no subscription, no microtransactions, no external runtime.  
+Single self-contained executable. Poisson-based match simulation engine. Procedural world generation.
+
+`Rust` `Tauri` `React` `TypeScript` `SQLite`
