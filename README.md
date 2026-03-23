@@ -1,13 +1,11 @@
 # Victor Vasconcelos
 
-Full-Stack Developer
-C# · .NET · TypeScript · React · Node.js · Rust
+Developer with a focus on backend systems.
+Currently working seriously with Rust.
+
+My background is .NET, Node.js, and TypeScript — the frontend side is React.
+The interesting problems have always been on the server.
 
 ---
 
-## Stack
-
-- **Tools** — Git, Docker, Firebase, OutSystems
-- **Databases** — MySQL, MongoDB, SQLite, MariaDB
-- **Backend** — PHP (Laravel), Node.js, Express, Fastify, C#, .NET, Rust
-- **Frontend** — JavaScript, TypeScript, React, Tailwind CSS, HTML, CSS, SASS
+📫 [LinkedIn](https://www.linkedin.com/in/victor-ovasconcelos/) · vvasconcelos.dev@gmail.com
