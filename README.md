@@ -1,5 +1,5 @@
 # Victor Vasconcelos
 
-> The interesting problems have always been on the server.
+> Full stack by trade, backend by preference.
 
-Developer with a focus on backend systems, currently working seriously with Rust.</br>
+Full Stack Developer | React, TypeScript, .NET — web solutions and APIs.</br>
