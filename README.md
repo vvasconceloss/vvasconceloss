@@ -2,4 +2,4 @@
 
 > Full stack by trade, backend by preference.
 
-Full Stack Developer | React, TypeScript, .NET — web solutions and APIs.</br>
+Full Stack Developer | React, TypeScript, Node — web solutions and APIs.</br>
