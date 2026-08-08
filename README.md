@@ -1,5 +1,13 @@
-# Victor Vasconcelos
+# H! I'm Victor Vasconcelos
 
-> Full stack by trade, backend by preference.
+> Software Developer focused on backend and full-stack development.
 
-Full Stack Developer | Node, TypeScript, React</br>
+Currently focusing on **C# and .NET**, while building applications with **TypeScript, React, Node.js and PostgreSQL**.
+
+## Tech Stack
+
+**Frontend:** React · TypeScript</br>
+**Backend:** C# · .NET · Node.js · TypeScript · REST APIs</br>
+**Database:** PostgreSQL · SQL</br>
+**Tools:** Git · Docker · GitHub Actions</br>
+
