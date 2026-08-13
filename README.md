@@ -42,6 +42,7 @@ deployed.
 
 ---
 
+<!--
 ### GitHub Stats
 
 <p align="center">
@@ -52,6 +53,7 @@ deployed.
 </p>
 
 ---
+-->
 
 ### Let's talk
 
