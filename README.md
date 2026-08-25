@@ -42,19 +42,6 @@ deployed.
 
 ---
 
-<!--
-### GitHub Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com?user=vvasconceloss&theme=github-dark-blue" alt="GitHub Streak" />
-  </a>
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vvasconceloss&hide_title=true&show_icons=false&include_all_commits=true&theme=github_dark" />
-</p>
-
----
--->
-
 ### Let's talk
 
 Open to backend / full-stack roles. Reach out on
