@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Victor Vasconcelos </h1>
-<h3 align="center">Backend-focused Full-Stack Developer · C# / .NET · TypeScript</h3>
+<h3 align="center">Software Developer · C# / .NET · TypeScript</h3>
 
 <p align="center">
   Portugal &nbsp;•&nbsp;
