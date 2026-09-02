@@ -45,5 +45,4 @@ deployed.
 ### Let's talk
 
 Open to backend / full-stack roles. Reach out on
-[LinkedIn](https://www.linkedin.com/in/victor-ovasconcelos/) or check out
-[lifeos.app](https://lifeos.app) to see something I actually shipped.
+[LinkedIn](https://www.linkedin.com/in/victor-ovasconcelos/).
