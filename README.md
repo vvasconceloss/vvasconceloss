@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Victor Vasconcelos </h1>
 <h3 align="center">Software Developer · C# / .NET · TypeScript</h3>
 
-<p align="center">
-  Portugal &nbsp;•&nbsp;
-  Open to Backend / Full-Stack opportunities &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/victor-ovasconcelos/">LinkedIn</a>
-</p>
-
 ---
 
 ### About me
@@ -39,10 +33,3 @@ deployed.
 **Frontend:** React · TypeScript · Vite</br>
 **Database:** PostgreSQL · SQL · Entity Framework Core · Prisma</br>
 **Tooling:** Git · Docker · GitHub Actions · Testcontainers
-
----
-
-### Let's talk
-
-Open to backend / full-stack roles. Reach out on
-[LinkedIn](https://www.linkedin.com/in/victor-ovasconcelos/).
