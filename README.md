@@ -3,8 +3,6 @@
 
 ---
 
-### About me
-
 I build production-shaped software real auth, real testing, real CI/CD,
 and real deploys. Currently deep in **C# / .NET**, and shipping full-stack products with
 **TypeScript, React, Node.js and PostgreSQL**.
