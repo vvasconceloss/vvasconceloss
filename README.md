@@ -14,19 +14,6 @@ instead of sitting local-only on my machine.
 
 ---
 
-### Featured project
-
-**[LifeOS](https://github.com/vvasconceloss/lifeos)**: a full-stack life management system
-(habits, goals, projects, journaling, analytics) currently in **public beta (v1.5)** and
-deployed.
-
-- **Live demo:** [lifeos.app](https://lifeos-focus.vercel.app/) (public demo account, pre-loaded with data)
-- **Stack:** Node.js + Fastify + TypeScript (API) · React + Vite (Web) · PostgreSQL + Prisma
-- CI on every PR (lint, typecheck, tests) · 258 automated tests · deployed on Render + Vercel + Neon
-- Full docs, changelog and roadmap in-repo
-
----
-
 ### Tech Stack
 
 **Backend:** C# · .NET · ASP.NET Core · Node.js · Fastify · REST APIs · MediatR / CQRS</br>
