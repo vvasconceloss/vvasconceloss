@@ -16,5 +16,5 @@ instead of sitting local-only on my machine.
 
 **Backend:** C# · .NET · ASP.NET Core · Node.js · Fastify · REST APIs</br>
 **Frontend:** React · TypeScript · Vite</br>
-**Database:** PostgreSQL · SQL · Entity Framework Core</br>
+**Database:** MySQL, MariaDB, PostgreSQL</br>
 **Tooling:** Git · Docker · GitHub Actions
