@@ -1,20 +1,34 @@
-<h1 align="center">Hi, I'm Victor Vasconcelos </h1>
-<h3 align="center">Software Developer · C# / .NET · TypeScript</h3>
+# Victor Vasconcelos
 
----
+Computer Science and Engineering student at ISCTE, currently focusing on
+C#/.NET and backend development.
 
-I build production-shaped software real auth, real testing, real CI/CD,
-and real deploys. Currently deep in **C# / .NET**, and shipping full-stack products with
-**TypeScript, React, Node.js and PostgreSQL**.
+## Currently working with
 
-I care about clean architecture, automated tests, and projects that actually run somewhere
-instead of sitting local-only on my machine.
+- C# and ASP.NET Core
+- SQL and relational databases
+- REST APIs
+- Entity Framework Core
+- Git and Docker
 
----
+I'm also studying Java as part of my Computer Science degree.
 
-### Tech Stack
+## Featured
 
-**Backend:** C# · .NET · ASP.NET Core · Node.js · Fastify · REST APIs</br>
-**Frontend:** React · TypeScript · Vite</br>
-**Database:** MySQL, MariaDB, PostgreSQL</br>
-**Tooling:** Git · Docker · GitHub Actions
+### [Client Hub](https://github.com/vvasconceloss/client-hub)
+ASP.NET Core MVC application for managing clients.
+
+Built with C#, ASP.NET Core MVC, Entity Framework Core and MySQL.
+Includes authentication, per-user data ownership, search, filtering,
+pagination and automated tests.
+
+### [LifeOS](https://github.com/vvasconceloss/lifeos)
+Full-stack application for tracking habits, goals, projects and daily activity.
+
+Built with TypeScript, React, Fastify, PostgreSQL and Prisma.
+
+## Other projects
+
+This profile also contains smaller projects and experiments in C#, Java,
+Rust and other technologies that I'm using to learn computer science and
+software development.
