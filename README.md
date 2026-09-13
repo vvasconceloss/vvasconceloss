@@ -1,6 +1,6 @@
 # Hi! I'm Victor Vasconcelos
 
-Computer Science and Engineering student at ISCTE, currently focusing on
+Computer Engineering student at ISCTE, currently focusing on
 C#/.NET and backend development.
 
 ## Currently working with
