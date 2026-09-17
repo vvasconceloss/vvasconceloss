@@ -11,8 +11,6 @@ C#/.NET and backend development.
 - Entity Framework Core
 - Git and Docker
 
-I'm also studying Java as part of my Computer Science degree.
-
 ## Featured
 
 ### [LifeOS](https://github.com/vvasconceloss/lifeos)
